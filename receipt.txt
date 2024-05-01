@@ -1,0 +1,17 @@
+
+Total: 14.4$
+Tip: 0$
+Tax: 0$
+Green Tea: 1 | Cost: 3 each
+
+Burrito: 1 | Cost: 4 each
+
+Item 3: 1 | Cost: 5 each
+
+Item 4: 0 | Cost: 6 each
+
+Item 5: 0 | Cost: 7 each
+
+Item 6: 0 | Cost: 8 each
+
+Item 7: 0 | Cost: 9 each
